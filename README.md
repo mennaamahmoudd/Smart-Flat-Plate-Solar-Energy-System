@@ -21,15 +21,6 @@ This repository contains the design and implementation of an **enhanced flat-pla
 - **Minimal Energy Waste**: Automated control prevents unnecessary heat loss.
 - **Sustainable Energy Solution**: Uses renewable solar power for electricity production.
 
-## Installation & Usage
-(TODO: Add details on setting up and using the project)
-
-## Contributing
-(TODO: Add contribution guidelines if needed)
-
-## License
-(TODO: Specify license details if applicable)
-
 ---
 **🔗 Check out the source code and implementation details in this repository!**
 
